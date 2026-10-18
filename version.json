@@ -1,0 +1,39 @@
+{
+ "versionCode": 8,
+ "versionName": "1.5.0",
+ "notes": "- App 内一键更新：自动检查新版本，在 App 里下载（显示进度，GitHub 连不上会自动换国内镜像）、校验后直接安装，记录全部保留\n- 设置里新增“检查更新”，可以跳过某个版本\n- 以后的新版本都会自动发布，不用再手动发安装包",
+ "publishedAt": "2026-10-19 04:00",
+ "apkUrl": "https://ghfast.top/https://raw.githubusercontent.com/star031104/foodfit-releases/main/FoodFit-arm64.apk",
+ "apks": {
+  "arm64": {
+   "urls": [
+    "https://ghfast.top/https://raw.githubusercontent.com/star031104/foodfit-releases/main/FoodFit-arm64.apk",
+    "https://raw.githubusercontent.com/star031104/foodfit-releases/main/FoodFit-arm64.apk",
+    "https://github.com/star031104/foodfit-releases/raw/main/FoodFit-arm64.apk",
+    "https://gh-proxy.com/https://raw.githubusercontent.com/star031104/foodfit-releases/main/FoodFit-arm64.apk"
+   ],
+   "sha256": "99bdf20ff59cf6cf247488c8789025fa1797cacf566dec27b591f15a0efefef0",
+   "size": 21008727
+  },
+  "universal": {
+   "urls": [
+    "https://ghfast.top/https://raw.githubusercontent.com/star031104/foodfit-releases/main/FoodFit-universal.apk",
+    "https://raw.githubusercontent.com/star031104/foodfit-releases/main/FoodFit-universal.apk",
+    "https://github.com/star031104/foodfit-releases/raw/main/FoodFit-universal.apk",
+    "https://gh-proxy.com/https://raw.githubusercontent.com/star031104/foodfit-releases/main/FoodFit-universal.apk"
+   ],
+   "sha256": "c4365845f504365e2696b67d4940615364e7347bdfc64647957d2a020462f463",
+   "size": 29133619
+  },
+  "compat": {
+   "urls": [
+    "https://ghfast.top/https://raw.githubusercontent.com/star031104/foodfit-releases/main/FoodFit-compat.apk",
+    "https://raw.githubusercontent.com/star031104/foodfit-releases/main/FoodFit-compat.apk",
+    "https://github.com/star031104/foodfit-releases/raw/main/FoodFit-compat.apk",
+    "https://gh-proxy.com/https://raw.githubusercontent.com/star031104/foodfit-releases/main/FoodFit-compat.apk"
+   ],
+   "sha256": "446191fbcd254010795f23aac865fc595e51ebb852d5490473ff6412c8b58387",
+   "size": 35519109
+  }
+ }
+}
